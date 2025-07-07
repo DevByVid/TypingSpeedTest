@@ -48,7 +48,7 @@ A fun Python-based Typing Speed Test app that measures how fast and accurately y
 
 **Vidushi Singh**  
 Aspiring Python Developer | Cloud Enthusiast | Computer Science Sophomore  
-[LinkedIn Profile](https://www.linkedin.com/in/Vidushi Singh)  
+[LinkedIn Profile](www.linkedin.com/in/vidushi-singh-8221b132a)  
 
 ```bash
 python typing_speed_test.py
