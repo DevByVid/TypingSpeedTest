@@ -1,4 +1,4 @@
-![Screenshot 2025-07-08 001720](https://github.com/user-attachments/assets/93adde38-56ca-45b0-b45a-259a46590458)
+
 # ⌨️ Typing Speed Test – Python Mini Project
 
 A fun Python-based Typing Speed Test app that measures how fast and accurately you can type idioms and proverbs. Great way to practice typing and build Python skills.
@@ -26,11 +26,7 @@ A fun Python-based Typing Speed Test app that measures how fast and accurately y
 
 ## 📸 Demo Screenshot
 
-> Add a screenshot named `screenshot.png` in the same folder  
-> So it displays here 👇
-
-![Typing Speed Test Screenshot](screenshot.png)
-
+![Screenshot 2025-07-08 001720](https://github.com/user-attachments/assets/93adde38-56ca-45b0-b45a-259a46590458)
 ---
 
 ## 🧠 What I Learned
